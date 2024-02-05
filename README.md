@@ -13,7 +13,7 @@ Hope the projects you find here will help you.
 ### [📅 Calendar AI GPT](https://github.com/kinivi/calendar-ai-gpt)
 An innovative tool to integrate Google Calendar and Notion using ChatGPT, designed to improve time management and productivity without relying on third-party applications.
 
-### [🚀 Advanced RAG]([https://github.com/kinivi/calendar-ai-gpt](https://github.com/kinivi/AlchemyLab/tree/main/Advanced_RAG))
+### [🚀 Advanced RAG](https://github.com/kinivi/AlchemyLab/tree/main/Advanced_RAG)
 Learn how to build, evaluate and track advanced RAG system using local Mistral-7b, LlamaIndex, and W&B. Step-by-step guide with code.
 
 ### [🛸 Tello Gesture Control](https://github.com/kinivi/tello-gesture-control)
