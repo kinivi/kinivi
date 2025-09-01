@@ -5,8 +5,7 @@ Hope the projects you find here will help you.
 
 ## About Me
 
-- 🔭 Currently working on Generative AI | Image, Video, Text
-- 👯 Looking to collaborate on open-source AI projects.
+- 🔭 Currently working on Agentic AI
 - 💬 Ping me about any contract collaboration or consultation in the AI area.
 
 ## Featured Projects
